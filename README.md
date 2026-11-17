@@ -46,21 +46,19 @@ python3 --version
 
 ## 🎮 Example Gameplay
 
-tman@TmanOnPoint:~/Desktop$ /usr/bin/python3 /home/tman/GuessIt.py
-Guess the number: 300
+```text
+Guess the number: hello
+Invalid input, please enter a whole number between 1 and 500
+Guess the number: -5
+Your guess must be between 1 and 500 please
+Guess the number: 250
 incorrect! your guess is too high
-Guess the number: 150
-incorrect! your guess is too low
-Guess the number: 200
-incorrect! your guess is high
-Guess the number: 180
-incorrect! your guess is too low
-Guess the number: 195
-incorrect! your guess is high
-Guess the number: 192
+Guess the number: 112
+incorrect! your guess is low
+Guess the number: 118
 correct! you have guessed the correct number
-it took you 6 tries to get it right
-tman@TmanOnPoint:~/Desktop$ 
+it took you 3 tries to get it right
+```
 
 ---
 
